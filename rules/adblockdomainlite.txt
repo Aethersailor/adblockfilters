@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、anti-AD、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20250101134716
-! Last modified: 2025/01/01 13:47:16
-! Blocked domains: 6206
+! Version: 20250101161438
+! Last modified: 2025/01/01 16:14:38
+! Blocked domains: 6204
 !
 00xvppy.cn
 img.0279.net
@@ -1919,7 +1919,6 @@ a.exam58.com
 excsyrv.cn
 ad.exyws.org
 eyouv.cn
-ez4q2.cn
 qp.ezfxpuo.cn
 g.f11w.com
 c1313.f28014.cn
@@ -5357,7 +5356,6 @@ ids-dmp.vpadn.com
 m.vpadn.com
 tw-api.vpadn.com
 vpsgu.cn
-vrbrothers.com
 vruuzgf.cn
 vsnoon.com
 vsojfsoj.com

@@ -1,10 +1,10 @@
 [Adblock Plus]
-! Version: 202501010509
+! Version: 202501010809
 ! Title: oisd small
 ! Description: Block. Don't break.
 ! Syntax: Adblock Plus Filter List
-! Entries: 45491
-! Last modified: 2025-01-01T05:09:08+0000
+! Entries: 45463
+! Last modified: 2025-01-01T08:09:32+0000
 ! Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -82,7 +82,6 @@
 ||0760571ca9.com^
 ||07634.com^
 ||076c92043c.a18d33cefa.com^
-||076f66b2.live^
 ||079301eaff0975107716716fd1cb0dcd.com^
 ||07d0bc4a48.com^
 ||07de571526.e04f630ca8.com^
@@ -218,7 +217,6 @@
 ||11.96131.com.cn^
 ||11.yiqig.cn^
 ||11152646.xyz^
-||1116c5.xyz^
 ||11235813.webzdarma.cz^
 ||11778562.xyz^
 ||1187531871.rsc.cdn77.org^
@@ -512,7 +510,6 @@
 ||22kkkk.com^
 ||22lmsi1t5.de^
 ||22media.world^
-||231dasda3dsd.aniyae.com^
 ||235c440d53.c2529de2cf.com^
 ||23879858.xyz^
 ||23907453.xyz^
@@ -561,7 +558,6 @@
 ||2560.fd.mobile.tv.sms13.de^
 ||25662zubo23739.com^
 ||257639.com^
-||258104d2.live^
 ||258a912d15.com^
 ||25eaeccf95.com^
 ||25f3eded03.6390becedf.com^
@@ -1580,7 +1576,6 @@
 ||8aea82753b.2ab91613ab.com^
 ||8b0a9809d8.com^
 ||8b2f59b83b.55ef6cccfc.com^
-||8b71e197.xyz^
 ||8bf6c3e9-3f4f-40db-89b3-58248f943ce3.online^
 ||8c62c8cf22.38f3857fa1.com^
 ||8cc514abf6.a9579899d4.com^
@@ -1623,7 +1618,6 @@
 ||90e78be4ad.f250b37f9e.com^
 ||90e7fd481d.com^
 ||910de7044f.com^
-||91199a.xyz^
 ||9119fa4031.com^
 ||91301246.xyz^
 ||9130ec9212.com^
@@ -6766,7 +6760,6 @@
 ||asqconn.com^
 ||asqpniwvxea.com^
 ||asraichuer.com^
-||asrelatercondi.org^
 ||asrety.com^
 ||asricewaterhouseo.com^
 ||asrop.xyz^
@@ -7138,7 +7131,6 @@
 ||auxiliaryspokenrationalize.com^
 ||avads.co.uk^
 ||availablesyrup.com^
-||availroeamenity.com^
 ||avalancheofnews.com^
 ||avalanchers.com^
 ||avatarweb.site^
@@ -7402,7 +7394,6 @@
 ||b02byun5xc3s.com^
 ||b0a28e2c7f.198584fc95.com^
 ||b0bee72a02.13e153630d.com^
-||b0eb63.xyz^
 ||b0f2f18e.xyz^
 ||b0oie4xjeb4ite.com^
 ||b1.b2b168.com^
@@ -7442,7 +7433,6 @@
 ||b41732fb1b.com^
 ||b42rracj.com^
 ||b50faca981.com^
-||b51475b8.xyz^
 ||b57dqedu4.com^
 ||b58ncoa1c07f.com^
 ||b59c.xyz^
@@ -10009,7 +9999,6 @@
 ||carlossteady.com^
 ||carlozigzag.com^
 ||carlsonmedia.streetinteractive.com^
-||carnelbawrel.com^
 ||carnivalaudiblelemon.com^
 ||carnivalradiationwage.com^
 ||carnivorouswordsroute.com^
@@ -10565,7 +10554,6 @@
 ||cf78a82187.d03476c640.com^
 ||cf7f345e1e.536e9f9126.com^
 ||cf852ff956.eef857d1fa.com^
-||cf959857.live^
 ||cf9c86d5de.f33207dc6c.com^
 ||cfateu.xyz^
 ||cfb98a.xyz^
@@ -11484,7 +11472,6 @@
 ||code.usergram.info^
 ||codedexchange.com^
 ||codefund.app^
-||codemylife.info^
 ||codeonclick.com^
 ||coderformylife.info^
 ||codes.royalad.pl^
@@ -14334,7 +14321,6 @@
 ||de.as.pptv.com^
 ||de01.rayjump.com^
 ||de17a.com^
-||de214f.xyz^
 ||de2da13f46.com^
 ||de2nsnw1i3egd.cloudfront.net^
 ||de3hzpms0kfq9.cloudfront.net^
@@ -15332,7 +15318,6 @@
 ||dog.streameon.com^
 ||dog89nqcp3al4.cloudfront.net^
 ||dogcollarfavourbluff.com^
-||dogecalloo.com^
 ||doghasta.com^
 ||dogiedimepupae.com^
 ||dogliscoran.com^
@@ -15439,6 +15424,7 @@
 ||doprinplupr.com^
 ||doptefoumsifee.xyz^
 ||doptik.ru^
+||dopub.site^
 ||doraikouor.com^
 ||dorangesource.alicdn.com^
 ||dore.new-indian-porn.com^
@@ -15950,7 +15936,6 @@
 ||dzienkudrow.com^
 ||dzigzdbqkc.com^
 ||dzijggsdx.com^
-||dzinzafogdpog.com^
 ||dzkpopetrf.com^
 ||dzliege.com^
 ||dzpu6za66svjl.cloudfront.net^
@@ -16424,7 +16409,6 @@
 ||eighteenprofit.com^
 ||eightygermanywaterproof.com^
 ||eikegolehem.com^
-||eilckjjhjtc.com^
 ||eiqsky.xyz^
 ||eirbrightscarletcl.com^
 ||eisasbeautifula.info^
@@ -19256,7 +19240,6 @@
 ||geoip.silive.com^
 ||geoip.syracuse.com^
 ||geolocation.outreach.com^
-||geometryworstaugust.com^
 ||geompzr.com^
 ||geoplugin.net^
 ||geoservice.curse.com^
@@ -20386,7 +20369,6 @@
 ||gvzsrqp.com^
 ||gw2cddpt2hao.asia^
 ||gw2cddpt2hao.cloud^
-||gw8.icu^
 ||gwallet.com^
 ||gwbone-cpw.today^
 ||gwggiroo.com^
@@ -20767,7 +20749,6 @@
 ||hectorobedient.com^
 ||hedgehog.fightforthefuture.org^
 ||hedgehoghugsyou.com^
-||hedgybateman.com^
 ||hedmisreputys.info^
 ||hedwigsantos.com^
 ||heedetiquettedope.com^
@@ -22096,7 +22077,6 @@
 ||incessanteffectmyth.com^
 ||incessantfinishdedicated.com^
 ||incessantvocabularydreary.com^
-||incidentbunchludicrous.com^
 ||inclk.com^
 ||incloak.com^
 ||incloseoverprotective.com^
@@ -24377,7 +24357,6 @@
 ||leanbathroom.com^
 ||leapcompatriotjangle.com^
 ||leapretrieval.com^
-||leardragonapp.monster^
 ||learningcontainscaterpillar.com^
 ||learntinga.com^
 ||leasemiracle.com^
@@ -26657,7 +26636,6 @@
 ||mineraltip.com^
 ||minergate.com^
 ||minero.cc^
-||minerva.devices.a2z.com^
 ||mingleabstainsuccessor.com^
 ||mingledcommit.com^
 ||mingledcounterfeittitanic.com^
@@ -26754,7 +26732,6 @@
 ||mite.cotinga.io^
 ||mite.tetrameros.com^
 ||mito03.top^
-||mitratechoiler.com^
 ||mitreskravers.com^
 ||mitself.net^
 ||mittyswidden.top^
@@ -28013,6 +27990,7 @@
 ||nglmedia.com^
 ||ngshospicalada.com^
 ||ngsinspiringtga.info^
+||nh7.icu^
 ||nhbprf.xyz^
 ||nheappyrincen.info^
 ||nhgpidvhdzm.vip^
@@ -30041,7 +30019,6 @@
 ||parlouractivityattacked.com^
 ||parnelfirker.com^
 ||paronymtethery.com^
-||parrecleftne.xyz^
 ||parrot.alookwithin.ca^
 ||parrot.lovably.com^
 ||parrotfish.thenping.me^
@@ -34030,7 +34007,6 @@
 ||rkdpzcdehop.fun^
 ||rkgwzfwjgk.com^
 ||rkl.draugas.lt^
-||rklzpo.com^
 ||rknwwtg.com^
 ||rkomf.com^
 ||rkoohcakrfu.com^
@@ -34280,9 +34256,7 @@
 ||rreauksofthecom.xyz^
 ||rreftyonkak.com^
 ||rrgbjybt.com^
-||rrhscsdlwufu.xyz^
 ||rrmlejvyqwzk.top^
-||rrobbybvvwmzk.top^
 ||rronsep.com^
 ||rrss.abc.es^
 ||rruvbtb.com^
@@ -35896,7 +35870,6 @@
 ||shoessaucepaninvoke.com^
 ||shoftoussees.com^
 ||sholke.com^
-||sholphot.com^
 ||sholraidsoalro.net^
 ||shonetransmittedfaces.com^
 ||shonevegetable.com^
@@ -39352,7 +39325,6 @@
 ||tholor.com^
 ||tholteti.com^
 ||thomasalthoughhear.com^
-||thomasbarlowpro.com^
 ||thongke.24h.com.vn^
 ||thongke.arttimes.vn^
 ||thongke.baotintuc.vn^
@@ -43058,6 +43030,7 @@
 ||wcbxugtfk.com^
 ||wcigmepzygad.com^
 ||wckkl.online^
+||wclimie.top^
 ||wcmcs.net^
 ||wcnhhqqueu.com^
 ||wco.crownpeak.com^
@@ -44731,7 +44704,6 @@
 ||yavli.com^
 ||yawcoynag.com^
 ||yaxgszv.com^
-||ybf1o.online^
 ||ybgtexsetsyv.com^
 ||ybhyziittfg.com^
 ||ybriifs.com^
