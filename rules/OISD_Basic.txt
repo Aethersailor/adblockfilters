@@ -1,10 +1,10 @@
 [Adblock Plus]
-! Version: 202501020809
+! Version: 202501021449
 ! Title: oisd small
 ! Description: Block. Don't break.
 ! Syntax: Adblock Plus Filter List
-! Entries: 45423
-! Last modified: 2025-01-02T08:09:24+0000
+! Entries: 45426
+! Last modified: 2025-01-02T14:49:00+0000
 ! Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -1595,6 +1595,7 @@
 ||94870bbbc9.com^
 ||94cdn.com^
 ||94lm.com^
+||94x.icu^
 ||95b1e00252.com^
 ||95d04d0751.22ad426520.com^
 ||95d127d868.com^
@@ -12447,6 +12448,7 @@
 ||crestfallenwall.com^
 ||crestislelocation.com^
 ||cretgate.com^
+||crevainv.com^
 ||crevicedepressingpumpkin.com^
 ||cribbewildered.com^
 ||criesstarch.com^
@@ -15601,6 +15603,7 @@
 ||drydrum.com^
 ||drylnk.com^
 ||ds-aksb-a.akamaihd.net^
+||ds.macellan.online^
 ||ds.ruanwengfa.com^
 ||ds02gfqy6io6i.cloudfront.net^
 ||ds1.kaijia.com^
@@ -27181,7 +27184,6 @@
 ||msioi.steeelm.xyz^
 ||msite.baidu.com^
 ||msmcoa.xyz^
-||msmetrics.ws.sonos.com^
 ||msre2lp.com^
 ||msrehcmpeme.com^
 ||msrvt.net^
@@ -44589,6 +44591,7 @@
 ||xxsmad2.com^
 ||xxsmad3.com^
 ||xxsmad4.com^
+||xxss6677.com^
 ||xxx.sdtraff.com^
 ||xxxbannerswap.com^
 ||xxxcounter.com^
