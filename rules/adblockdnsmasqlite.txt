@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、anti-AD、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20250103161421
-# Last modified: 2025/01/03 16:14:21
-# Blocked domains: 7283
+# Version: 20250104001256
+# Last modified: 2025/01/04 00:12:56
+# Blocked domains: 7286
 #
 local=/00xvppy.cn/
 local=/011211.cn/
@@ -3041,6 +3041,8 @@ local=/hyfyuan.com/
 local=/www.hygduz.cn/
 local=/hygqtz.cn/
 local=/hypers.com/
+local=/dsp.hypers.com.cn/
+local=/t.hypers.com.cn/
 local=/hysdknb.com/
 local=/hzbxm.com/
 local=/hzdhr.cn/
@@ -4833,6 +4835,8 @@ local=/adshmct.qq.com/
 local=/adshmmsg.qq.com/
 local=/adslvfile.qq.com/
 local=/adslvseed.qq.com/
+local=/adsmind.gdtimg.com.tcdn.qq.com/
+local=/adsmind.ugdtimg.com.tcdn.qq.com/
 local=/adsolution.imtt.qq.com/
 local=/adsqqclick.qq.com/
 local=/adsrich.qq.com/
@@ -6239,7 +6243,6 @@ local=/cname-asia-stsdk09.vivoglobal.com/
 local=/err-up.vivoglobal.com/
 local=/in-adsjssdk.vivoglobal.com/
 local=/onrt-stsdk.vivoglobal.com/
-local=/ort-stsdk.vivoglobal.com/
 local=/pnrt-stsdk.vivoglobal.com/
 local=/ro-up.vivoglobal.com/
 local=/ru-monitor-stsdk.vivoglobal.com/
