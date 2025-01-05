@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: RGEKLdrTneZmz7kP1hORRQ
-! Version: 202501050041
+! Checksum: Xf1kM52ZqY4Vv7sN6mwKrw
+! Version: 202501050801
 ! Title: EasyList China
-! Last modified: 05 Jan 2025 00:41 UTC
+! Last modified: 05 Jan 2025 08:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1749,6 +1749,9 @@ newduba.cn###jq_youxi
 !
 ||lirretsn.com^
 ||nmzbrd.icu^
+||hrjciqyu.icu^
+||hdyurliu.top^
+||en6.icu^
 ||airakgyl.com^
 ||scjtfh.xyz^
 ||cdyurlif.top^
@@ -9751,7 +9754,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||cdncg.com^*/kangmey
 ||twkan.com/js/otherad
 ||element-plus.org/images/sponsors/
-||httpcn.com^*950-120
+||httpcn.com^*-120
 ||aatv.app/sport/sport.js
 !------------------------Specific element hiding rules------------------------!
 85po.com##.asside-link
@@ -9776,6 +9779,7 @@ appinn.com##a[href*=".houdeyun.cn"]
 fitacg.com##a[href*="ifift.com"]
 cnys.tv###player_pause
 twkan.com##.txtcenter
+element-plus.org##.page-sidebar-panel
 element-plus.org##.page-sidebar-table
 element-plus.org#?#div:-abp-has(>.sponsor-item)
 hcbbs.com##.wp > div:not([id]):not([class]) > a > img[src*=".imgdb.cn"]
