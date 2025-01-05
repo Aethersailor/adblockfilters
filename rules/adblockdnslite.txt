@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、anti-AD、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20250105001157
-! Last modified: 2025/01/05 00:11:57
-! Blocked domains: 7266
+! Version: 20250105085441
+! Last modified: 2025/01/05 08:54:41
+! Blocked domains: 7261
 ! unBlocked domains: 37
 !
 ||00xvppy.cn^
@@ -244,7 +244,6 @@
 ||2yt.cn^
 ||ad.3.cn^
 ||atom-log.3.cn^
-||static.3001.net^
 ||analytics.300624.com^
 ||301848.com^
 ||301pk.com^
@@ -4319,8 +4318,6 @@
 ||mylikechat.com^
 ||esa-reg-eup.myoppo.com^
 ||12551-1311572332.cos.ap-shanghai.myqcloud.com^
-||16dd-advertise-1252317822.file.myqcloud.com^
-||16dd-advertise-1252317822.image.myqcloud.com^
 ||2g312kn32qfy-1323053341.cos.ap-bangkok.myqcloud.com^
 ||ad-1258444056.cos.accelerate.myqcloud.com^
 ||adstore-1252524079.file.myqcloud.com^
@@ -4630,7 +4627,6 @@
 ||pn36.cn^
 ||100.pncdn.cn^
 ||jenfky.pnqdr.cn^
-||po2qgo.xyz^
 ||a-m-s.poco.cn^
 ||cdn.pocoiq.cn^
 ||poisedreel.cn^
@@ -6659,7 +6655,6 @@
 ||xinshengchuanmei.cn^
 ||j.xinshipu.com^
 ||xinterface.cn^
-||xiongdong.com^
 ||xiongyin.com^
 ||www8.xitek.com^
 ||app.xizi.com^

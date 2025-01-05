@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、anti-AD、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20250105001158
-# Last modified: 2025/01/05 00:11:58
-# Blocked domains: 7266
+# Version: 20250105085441
+# Last modified: 2025/01/05 08:54:41
+# Blocked domains: 7261
 #
 local=/00xvppy.cn/
 local=/011211.cn/
@@ -243,7 +243,6 @@ local=/2xmzazd.cn/
 local=/2yt.cn/
 local=/ad.3.cn/
 local=/atom-log.3.cn/
-local=/static.3001.net/
 local=/analytics.300624.com/
 local=/301848.com/
 local=/301pk.com/
@@ -4318,8 +4317,6 @@ local=/myhug.cn/
 local=/mylikechat.com/
 local=/esa-reg-eup.myoppo.com/
 local=/12551-1311572332.cos.ap-shanghai.myqcloud.com/
-local=/16dd-advertise-1252317822.file.myqcloud.com/
-local=/16dd-advertise-1252317822.image.myqcloud.com/
 local=/2g312kn32qfy-1323053341.cos.ap-bangkok.myqcloud.com/
 local=/ad-1258444056.cos.accelerate.myqcloud.com/
 local=/adstore-1252524079.file.myqcloud.com/
@@ -4629,7 +4626,6 @@ local=/pmvlwjy.cn/
 local=/pn36.cn/
 local=/100.pncdn.cn/
 local=/jenfky.pnqdr.cn/
-local=/po2qgo.xyz/
 local=/a-m-s.poco.cn/
 local=/cdn.pocoiq.cn/
 local=/poisedreel.cn/
@@ -6658,7 +6654,6 @@ local=/xinray.com/
 local=/xinshengchuanmei.cn/
 local=/j.xinshipu.com/
 local=/xinterface.cn/
-local=/xiongdong.com/
 local=/xiongyin.com/
 local=/www8.xitek.com/
 local=/app.xizi.com/
