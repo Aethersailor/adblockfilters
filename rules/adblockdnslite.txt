@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、anti-AD、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20250106085257
-! Last modified: 2025/01/06 08:52:57
-! Blocked domains: 7251
+! Version: 20250106161505
+! Last modified: 2025/01/06 16:15:05
+! Blocked domains: 7249
 ! unBlocked domains: 37
 !
 ||00xvppy.cn^
@@ -1493,7 +1493,6 @@
 ||xww.bucea.edu.cn^
 ||beijing.buzhi5.com^
 ||bvkx.cn^
-||correosytelegrafos.bvqb.cn^
 ||aramex.bvte.cn^
 ||bvubasnf.com^
 ||ad.bwton.com^
@@ -2014,6 +2013,7 @@
 ||dingon.com.cn^
 ||resolver.dingtalk.com^
 ||linktrace.diningcity.cn^
+||stdown.dinju.com^
 ||dinuojixie.com.cn^
 ||dipan.com^
 ||displink.com^
@@ -4040,7 +4040,6 @@
 ||mcleaner.cn^
 ||mconedh.cn^
 ||uid.mdbchina.com^
-||jascce-manager.mddxx.cn^
 ||mdkjefq.cn^
 ||lepodownload.mediatek.com^
 ||mepodownload.mediatek.com^
@@ -5243,7 +5242,6 @@
 ||sdzhongke.cn^
 ||1640831964042.se-life.cn^
 ||analytics.apps.seabroadnet.com^
-||seaholly.cn^
 ||ad.seeyouyima.com^
 ||sellbuyads.cn^
 ||sellfox.com^

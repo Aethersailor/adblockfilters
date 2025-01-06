@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、anti-AD、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20250106085257
-# Last modified: 2025/01/06 08:52:57
-# Blocked domains: 7251
+# Version: 20250106161505
+# Last modified: 2025/01/06 16:15:05
+# Blocked domains: 7249
 #
 local=/00xvppy.cn/
 local=/011211.cn/
@@ -1492,7 +1492,6 @@ local=/btyou.com/
 local=/xww.bucea.edu.cn/
 local=/beijing.buzhi5.com/
 local=/bvkx.cn/
-local=/correosytelegrafos.bvqb.cn/
 local=/aramex.bvte.cn/
 local=/bvubasnf.com/
 local=/ad.bwton.com/
@@ -2013,6 +2012,7 @@ local=/dinglixuan.cn/
 local=/dingon.com.cn/
 local=/resolver.dingtalk.com/
 local=/linktrace.diningcity.cn/
+local=/stdown.dinju.com/
 local=/dinuojixie.com.cn/
 local=/dipan.com/
 local=/displink.com/
@@ -4039,7 +4039,6 @@ local=/kti.mcjjsdhfg.cn/
 local=/mcleaner.cn/
 local=/mconedh.cn/
 local=/uid.mdbchina.com/
-local=/jascce-manager.mddxx.cn/
 local=/mdkjefq.cn/
 local=/lepodownload.mediatek.com/
 local=/mepodownload.mediatek.com/
@@ -5242,7 +5241,6 @@ local=/sdyongyan.com.cn/
 local=/sdzhongke.cn/
 local=/1640831964042.se-life.cn/
 local=/analytics.apps.seabroadnet.com/
-local=/seaholly.cn/
 local=/ad.seeyouyima.com/
 local=/sellbuyads.cn/
 local=/sellfox.com/
