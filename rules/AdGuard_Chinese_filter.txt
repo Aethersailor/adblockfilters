@@ -1331,6 +1331,9 @@ $script,third-party,denyallow=fastlycdn.com|doodcdn.co|intensedebate.com|vixclou
 !
 ! NOTE: Specific rules
 !
+xchina.co##.photos > div.item:has(> div > a[target="_blank"])
+xchina.co##.photos > div.item:has(> div[class^="exoclick_"])
+xchina.co##div[class^="item photo zone"]
 qq3009qq.link##.box li:has(> a[href] > img[onclick])
 cnbeta.com.tw##.meta > .fr > a[target="_blank"] > img
 read.thisiscm.com##.gadBlock
@@ -5208,6 +5211,10 @@ newduba.cn###jq_youxi
 ||lcvwdn.icu^
 ||1tp.icu^
 ||jdyurlia.top^
+||orcinhyi.com^
+||thruksyq.com^
+||z4v.icu^
+||kdyurlid.top^
 ||lirretsn.com^
 ||nmzbrd.icu^
 ||hrjciqyu.icu^
@@ -13173,6 +13180,9 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||aatv.app/sport/sport.js
 ||dangbei.net/2022/dbhezi.
 85po.com##.asside-link
+333ood.com###appBox
+333ood.com##div[style$="display: block;"]
+baidu.com##.tieba-pause-ad-container
 laozuo.org###focusslide
 laozuo.org##.container[style="margin-bottom: 3px;"]
 laozuo.org##.widget_ui_orbui
@@ -18792,6 +18802,7 @@ huawei.com#@#.ad-wrap:not(#google_ads_iframe_checktag)
 bitauto.com#@#a[href^="http://ad.doubleclick.net/"]
 brandsales.58.com#@#div[id^="ad_"]
 gohome.com.hk#@#div[id^="div-gpt-ad"]
+333ood.com#@#.ad-box:not(#ad-banner):not(:empty)
 android-doc.com,apk.tw,chaojizhibo.net,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,logi.im,lspdfrcn.com,moa.tw,moe48.com,numberempire.com,playok.com,reh.tw,shenfendaquan.com,vaptcha.com#@#ins.adsbygoogle
 android-doc.com,apk.tw,chaojizhibo.net,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,logi.im,lspdfrcn.com,moa.tw,moe48.com,numberempire.com,playok.com,reh.tw,shenfendaquan.com,vaptcha.com#@#ins.adsbygoogle[data-ad-slot]
 @@.adserver.$domain=litv.tv
