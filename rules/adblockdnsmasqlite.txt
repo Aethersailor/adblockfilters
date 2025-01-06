@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、anti-AD、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20250106001134
-# Last modified: 2025/01/06 00:11:34
-# Blocked domains: 7260
+# Version: 20250106085257
+# Last modified: 2025/01/06 08:52:57
+# Blocked domains: 7251
 #
 local=/00xvppy.cn/
 local=/011211.cn/
@@ -526,7 +526,6 @@ local=/80w19v.cn/
 local=/m1.81312.com/
 local=/8181zx.com/
 local=/8315.cn/
-local=/853.com/
 local=/m.85rvq.cn/
 local=/2012.8684.com/
 local=/bdfpb1.8684.com/
@@ -1500,7 +1499,6 @@ local=/ad.bwton.com/
 local=/dlogs.bwton.com/
 local=/bwuwirv.cn/
 local=/creative.bxsnews.com/
-local=/creative3-hs.bxsnews.com/
 local=/bxwccii.cn/
 local=/correosytelegrafos.bxze.cn/
 local=/monitor-frontend-collector.a.bybit-aws.com/
@@ -2114,7 +2112,6 @@ local=/cd001.www.duba.net/
 local=/cd002.www.duba.net/
 local=/cd003.www.duba.net/
 local=/cd011.www.duba.net/
-local=/cloud-q.duba.net/
 local=/vinted-pl-gj32d.dubrava.top/
 local=/vinted-pl-lzlxo.dubrava.top/
 local=/img.dubyc.com/
@@ -3502,7 +3499,6 @@ local=/img2.user.kanimg.com/
 local=/kkpgv.kankan.com/
 local=/kkpgv2.kankan.com/
 local=/stat.kankan.com/
-local=/kankanews.com/
 local=/kanshuapp.com/
 local=/cps.kaola.com/
 local=/smetrics.karcher.cn/
@@ -4050,7 +4046,6 @@ local=/mepodownload.mediatek.com/
 local=/mgepodownload.mediatek.com/
 local=/mediav.com/
 local=/ad.meetyouintl.com/
-local=/meibu.com/
 local=/meigeer.com.cn/
 local=/meihu56.cn/
 local=/static.meijiacun.com/
@@ -5307,7 +5302,6 @@ local=/sigmob.com/
 local=/siguatv.cn/
 local=/sigulacuo.cn/
 local=/sikncs.com/
-local=/www.simejiglobal.com/
 local=/simengadx.com/
 local=/simicloud.com/
 local=/2016.sina.cn/
@@ -5434,7 +5428,6 @@ local=/log.m.sm.cn/
 local=/sugs.m.sm.cn/
 local=/video-ad.sm.cn/
 local=/iot-na.smarlife.cn/
-local=/swanhost.smartapps.cn/
 local=/smarttrade.cn/
 local=/smucdn.com/
 local=/analytics-api.smzdm.com/
@@ -5914,7 +5907,6 @@ local=/adsapi.togothermany.cn/
 local=/adscfg.togothermany.cn/
 local=/adsup.togothermany.cn/
 local=/a.tn.token-ad.com/
-local=/05.tokyometropolis.kiev.ua/
 local=/tongji.tom.com/
 local=/track.tom.com/
 local=/track.tomwx.net/
@@ -6578,7 +6570,6 @@ local=/ota.cdn.pandora.xiaomi.com/
 local=/package.box.xiaomi.com/
 local=/preload.xiaomi.com/
 local=/ptmi.gitv.pandora.xiaomi.com/
-local=/register.xmpush.xiaomi.com/
 local=/sandbox.xmpush.xiaomi.com/
 local=/sdkconfig.ad.india.xiaomi.com/
 local=/sdkconfig.ad.rus.xiaomi.com/

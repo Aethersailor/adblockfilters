@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、anti-AD、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20250106001134
-! Last modified: 2025/01/06 00:11:34
-! Blocked domains: 7260
+! Version: 20250106085257
+! Last modified: 2025/01/06 08:52:57
+! Blocked domains: 7251
 ! unBlocked domains: 37
 !
 ||00xvppy.cn^
@@ -527,7 +527,6 @@
 ||m1.81312.com^
 ||8181zx.com^
 ||8315.cn^
-||853.com^
 ||m.85rvq.cn^
 ||2012.8684.com^
 ||bdfpb1.8684.com^
@@ -1501,7 +1500,6 @@
 ||dlogs.bwton.com^
 ||bwuwirv.cn^
 ||creative.bxsnews.com^
-||creative3-hs.bxsnews.com^
 ||bxwccii.cn^
 ||correosytelegrafos.bxze.cn^
 ||monitor-frontend-collector.a.bybit-aws.com^
@@ -2115,7 +2113,6 @@
 ||cd002.www.duba.net^
 ||cd003.www.duba.net^
 ||cd011.www.duba.net^
-||cloud-q.duba.net^
 ||vinted-pl-gj32d.dubrava.top^
 ||vinted-pl-lzlxo.dubrava.top^
 ||img.dubyc.com^
@@ -3503,7 +3500,6 @@
 ||kkpgv.kankan.com^
 ||kkpgv2.kankan.com^
 ||stat.kankan.com^
-||kankanews.com^
 ||kanshuapp.com^
 ||cps.kaola.com^
 ||smetrics.karcher.cn^
@@ -4051,7 +4047,6 @@
 ||mgepodownload.mediatek.com^
 ||mediav.com^
 ||ad.meetyouintl.com^
-||meibu.com^
 ||meigeer.com.cn^
 ||meihu56.cn^
 ||static.meijiacun.com^
@@ -5308,7 +5303,6 @@
 ||siguatv.cn^
 ||sigulacuo.cn^
 ||sikncs.com^
-||www.simejiglobal.com^
 ||simengadx.com^
 ||simicloud.com^
 ||2016.sina.cn^
@@ -5435,7 +5429,6 @@
 ||sugs.m.sm.cn^
 ||video-ad.sm.cn^
 ||iot-na.smarlife.cn^
-||swanhost.smartapps.cn^
 ||smarttrade.cn^
 ||smucdn.com^
 ||analytics-api.smzdm.com^
@@ -5915,7 +5908,6 @@
 ||adscfg.togothermany.cn^
 ||adsup.togothermany.cn^
 ||a.tn.token-ad.com^
-||05.tokyometropolis.kiev.ua^
 ||tongji.tom.com^
 ||track.tom.com^
 ||track.tomwx.net^
@@ -6579,7 +6571,6 @@
 ||package.box.xiaomi.com^
 ||preload.xiaomi.com^
 ||ptmi.gitv.pandora.xiaomi.com^
-||register.xmpush.xiaomi.com^
 ||sandbox.xmpush.xiaomi.com^
 ||sdkconfig.ad.india.xiaomi.com^
 ||sdkconfig.ad.rus.xiaomi.com^
