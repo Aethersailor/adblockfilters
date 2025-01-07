@@ -1,10 +1,10 @@
 [Adblock Plus]
-! Version: 202501061610
+! Version: 202501070007
 ! Title: oisd small
 ! Description: Block. Don't break.
 ! Syntax: Adblock Plus Filter List
-! Entries: 45119
-! Last modified: 2025-01-06T16:10:08+0000
+! Entries: 45095
+! Last modified: 2025-01-07T00:07:42+0000
 ! Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -144,7 +144,6 @@
 ||1.1010pic.com^
 ||1.11130.com.cn^
 ||1.11467.com^
-||1.114central.com^
 ||1.201980.com^
 ||1.5000yan.com^
 ||1.51sxue.cn^
@@ -762,7 +761,6 @@
 ||33across.com^
 ||33serve.bussyhunter.com^
 ||34.gs^
-||341k4gu76ywe.top^
 ||34475780.xyz^
 ||3467b7d02e.com^
 ||34c828d354.9013e61823.com^
@@ -2111,7 +2109,6 @@
 ||abmismagiusom.com^
 ||abmunnaa.com^
 ||abnegateexcavator.com^
-||abnegationbanquet.com^
 ||abnegationdenoteimprobable.com^
 ||abnegationsemicirclereproduce.com^
 ||abniorant.com^
@@ -4787,7 +4784,6 @@
 ||akjorcnawqp.com^
 ||akjoyjkrwalaa.top^
 ||akku.mondo.trium.mitsubishi.sms13.de^
-||aklaqdzukadh.com^
 ||aklmjylwvkjbb.top^
 ||aklmjylwvkqbm.top^
 ||aklorswikk.com^
@@ -6039,7 +6035,6 @@
 ||aoalmfwinbsstec23.com^
 ||aobtwv.icu^
 ||aogk88.asia^
-||aogoxcgqw.com^
 ||aomg5bzv7.com^
 ||aopapp.com^
 ||aortismbutyric.com^
@@ -10745,7 +10740,6 @@
 ||chrantary-vocking.com^
 ||chrisignateignatedescend.com^
 ||christeningfathom.com^
-||christeningscholarship.com^
 ||chronicads.com^
 ||chroniclesugar.com^
 ||chryvast.com^
@@ -14556,7 +14550,6 @@
 ||detectivesbaseballovertake.com^
 ||detectivesexception.com^
 ||detectivespreferably.com^
-||detectmus.com^
 ||detentionquasipairs.com^
 ||detentsclonks.com^
 ||detergenthazardousgranddaughter.com^
@@ -14700,7 +14693,6 @@
 ||diedpractitionerplug.com^
 ||diedstubbornforge.com^
 ||diench.com^
-||diendh.xyz^
 ||dietarydecreewilful.com^
 ||dietschoolvirtually.com^
 ||differencenaturalistfoam.com^
@@ -15361,7 +15353,6 @@
 ||douchucoam.net^
 ||doufoushig.xyz^
 ||dougale.com^
-||douhooke.net^
 ||doukoula.com^
 ||douthosh.net^
 ||douwhawez.com^
@@ -19798,7 +19789,6 @@
 ||grainshen.com^
 ||grairdou.com^
 ||grairgoo.com^
-||grairsoa.com^
 ||grairtoorgey.com^
 ||graitaulrocm.net^
 ||graithos.net^
@@ -21588,7 +21578,6 @@
 ||iduq.com^
 ||idydlesswale.info^
 ||idyllteapots.com^
-||idyurlio.top^
 ||ie3wisa4.com^
 ||ie8eamus.com^
 ||ieapak.xyz^
@@ -22788,7 +22777,6 @@
 ||jecoglegru.com^
 ||jecromaha.info^
 ||jeczxxq.com^
-||jedgsaecftupk.xyz^
 ||jedlnn.xyz^
 ||jeefaiwochuh.net^
 ||jeehainout.com^
@@ -23014,7 +23002,6 @@
 ||josfrvq.com^
 ||josiehopeless.com^
 ||josieunethical.com^
-||josjrhtot.com^
 ||jotchidoun.net^
 ||jotpoolwarren.com^
 ||jotterswirrah.com^
@@ -24497,7 +24484,6 @@
 ||liquorelectric.com^
 ||liracdn.com^
 ||lirotroodles.com^
-||lirretsn.com^
 ||lishibu.com^
 ||listbrandnew.com^
 ||listenedmusician.com^
@@ -25060,7 +25046,6 @@
 ||logsgroupknew.com^
 ||logshort.xyz^
 ||logsink.zedge.net^
-||logsjthhxsbfzw.com^
 ||logsss.com^
 ||logtake.weidian.com^
 ||logua.com^
@@ -25085,7 +25070,6 @@
 ||lol.globlax.com^
 ||lolco.net^
 ||lolsefti.com^
-||lonazia.xyz^
 ||loneday.com^
 ||lonelytransienttrail.com^
 ||lonerdrawn.com^
@@ -32393,7 +32377,6 @@
 ||qinvaris.com^
 ||qipsjdjk.xyz^
 ||qiqdpeovkobj.com^
-||qirls.info^
 ||qist.me^
 ||qituduwios.com^
 ||qiuaiea.com^
@@ -33637,7 +33620,6 @@
 ||rghptoxhai.com^
 ||rghqrj.xyz^
 ||rgrd.xyz^
-||rgwnbdygfh.com^
 ||rhendam.com^
 ||rheneapfg.com^
 ||rhiaxplrolm.com^
@@ -35598,7 +35580,6 @@
 ||shineinternalindolent.com^
 ||shinep.xyz^
 ||shingleexpressing.com^
-||shinglelatitude.com^
 ||shinnedsoughed.com^
 ||shinygabbleovertime.com^
 ||shinyspiesyou.com^
@@ -35642,7 +35623,6 @@
 ||shoonsicousu.net^
 ||shoopusahealth.com^
 ||shoordaird.com^
-||shoorsoacmo.xyz^
 ||shooterlearned.com^
 ||shootingsuspicionsinborn.com^
 ||shootoax.com^
@@ -37578,7 +37558,6 @@
 ||stirringdebrisirriplaceableirriplaceable.com^
 ||stitchalmond.com^
 ||stixeepou.com^
-||stjpezyt.com^
 ||stlog.d.dmkt-sp.jp^
 ||stlog.dmarket.docomo.ne.jp^
 ||stlpnom.xyz^
@@ -40563,7 +40542,6 @@
 ||trktnc.com^
 ||trkunited.com^
 ||trkwinaff13.com^
-||trlxcf05.com^
 ||trmobc.com^
 ||trmzum.com^
 ||trocarssubpool.shop^
@@ -43567,7 +43545,6 @@
 ||wpmdeo.xyz^
 ||wpsbaq.xyz^
 ||wpshsdk.com^
-||wpsmcns.com^
 ||wpu.sh^
 ||wpuiuwh.icu^
 ||wpush.org^
@@ -44500,7 +44477,6 @@
 ||ykgtbakyb.com^
 ||ykkhihg.cn^
 ||yktj.yzz.cn^
-||ykwfnicxmntel.com^
 ||ykwykw.xyz^
 ||yl-sooippd.vip^
 ||yl04z4v.cn^
