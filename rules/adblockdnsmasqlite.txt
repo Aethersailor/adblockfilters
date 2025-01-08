@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、anti-AD、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20250108002846
-# Last modified: 2025/01/08 00:28:46
-# Blocked domains: 7500
+# Version: 20250108085037
+# Last modified: 2025/01/08 08:50:37
+# Blocked domains: 7499
 #
 local=/00xvppy.cn/
 local=/011.com/
@@ -244,6 +244,7 @@ local=/2xmzazd.cn/
 local=/2yt.cn/
 local=/ad.3.cn/
 local=/atom-log.3.cn/
+local=/static.3001.net/
 local=/analytics.300624.com/
 local=/301848.com/
 local=/301pk.com/
@@ -2631,7 +2632,6 @@ local=/prom.gome.com.cn/
 local=/www.gome.com.cn/
 local=/m.gomev.cn/
 local=/gongyichuangyi.net/
-local=/goodlabel.cn/
 local=/google-analytics-cn.com/
 local=/google-analytics.com/
 local=/ads.google.cn/
@@ -2787,7 +2787,6 @@ local=/g.haofan005.com/
 local=/js1.haoge500.com/
 local=/bd.haomagujia.com/
 local=/2.haory.cn/
-local=/by.haory.cn/
 local=/mbrowser.news.haosou.com/
 local=/haoweb.top/
 local=/haowei.me/
