@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、anti-AD、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomain.txt
-! Version: 20250110001329
-! Last modified: 2025/01/10 00:13:29
-! Blocked domains: 206803
+! Version: 20250110085159
+! Last modified: 2025/01/10 08:51:59
+! Blocked domains: 206834
 !
 0-0.fr
 0-02.net
@@ -886,6 +886,8 @@ c.m.163.com
 channel.m.163.com
 clientlog.music.163.com
 clientlog3.music.163.com
+clientlogdep.music.163.com
+clientlogsf.music.163.com
 count.mail.163.com
 countly.mail.163.com
 crash.163.com
@@ -10690,6 +10692,7 @@ telemetry.agoda.com
 tracking.agoda.com
 agoholiday.com
 agoke0333.info
+agoniedlaissez.com
 agonyenginedrivermansion.com
 agoop.net
 agooxouy.net
@@ -11134,6 +11137,7 @@ aimediagroup.com
 zitcrd.aimerfeel.jp
 aimes.com
 metrics.aimetric.net
+tracking.aimetric.net
 aimextractpunk.com
 aimgd.com
 aimhighercoaching.com
@@ -12031,6 +12035,7 @@ conversation-app.alcatel-lucent.com
 fvc.alcatel-lucent.com
 smb-cashback.alcatel-lucent.com.au
 alcatza.com
+alcaydecubages.com
 go.alchemer.com
 partneri.alchemistr.cz
 alchemy-trade.pro
@@ -19787,6 +19792,7 @@ go.atrium.ai
 seniorliving.atriumatnavesink.org
 atriumset.com
 atrkmankubf.com
+atrochaxctl.shop
 atrociouspsychiatricparliamentary.com
 atrocityfingernail.com
 atsabwhkox.com
@@ -26227,6 +26233,7 @@ bfhueh.top
 dimages.bfi0.com
 images.bfi0.com
 pix.bfi0.com
+bfiauqscsotjcy.com
 bfici.com
 marketing.bfinance.com
 www2.bfinance.com
@@ -29513,6 +29520,7 @@ bivinno.com
 bivos.xyz
 biwahie.com
 biwipoo.com
+biwipuque.com
 marketing.biworldwide.co.uk
 bixb.exchange
 bixbcoin.com
@@ -39226,6 +39234,7 @@ cau1aighae.com
 caubichofus.com
 ztnyzi.caudalie.com
 caue971.org
+caugrithoowhu.net
 caugrush.com
 caukoaph.net
 cauldronrepellentcanvass.com
@@ -63209,6 +63218,7 @@ plx.eispop.com
 eiteribesshaints.com
 eitfromtheothe.org
 eithadgroup.com
+eitilbyr.com
 metrics.eiu.com
 smetrics.eiu.com
 eiuoom.xyz
@@ -65355,6 +65365,7 @@ newsletter.epithimies.gr
 pg.epithimies.gr
 epitrack.com
 sukienmd.epizy.com
+epizzoacoses.com
 olx.eplatnosc24.pl
 eplndhtrobl.com
 eplotkin.com
@@ -71649,6 +71660,7 @@ fishingerra.com
 fishingtouching.com
 pd.fishisdata.com
 shop22.fishkillbaptistnurseryschool.org
+fishmangyral.com
 fishmenkabbala.com
 device.fishmobi.com
 www2.fishstewip.com
@@ -72131,6 +72143,7 @@ target.fleetcardsusa.com
 insights.fleetcomplete.com
 smetrics.fleetcor.com
 analytics.fleetdefense.com
+fleetenreplevy.com
 marketing.fleetfeetorlando.com
 marketing.fleetfeetraleigh.com
 fleetformy.com
@@ -84426,6 +84439,7 @@ a8cv.hariocorp.co.jp
 harisahmad.com
 ct2.harisen.jp
 a8cv.hariti.shop
+harksifrit.com
 harktbohorlo.com
 adserver.harktheherald.com
 marketing.harlancapital.com
@@ -106235,6 +106249,7 @@ lack4skip.com
 lacklesslacklesscringe.com
 laclinicamed.com
 a8cv.laclulu.com
+lacmoudoossaiss.net
 lacmp.net
 wyaopp.lacoccinelle.net
 ads.lacoctelera.com
@@ -107293,6 +107308,7 @@ api.lbesecapi.com
 events.lbesecapi.com
 psi.lbesecapi.com
 lbfuvlyp.icu
+lbfwxr.icu
 lbifibui.com
 lbjekygz.icu
 lbjg7.com
@@ -118826,6 +118842,7 @@ pixel.mintigo.com
 mintiia.com
 mintingmakees.pro
 mintj.com
+mintmanrouter.com
 mintmanunmanly.com
 app.mintmobile.com
 mintosar.org.uk
@@ -126902,6 +126919,7 @@ httpdns-sdk.n.netease.com
 httpdns.n.netease.com
 hubble.netease.com
 mam.netease.com
+nstool.netease.com
 pr.nss.netease.com
 statis.push.netease.com
 vmonitor.ws.netease.com
@@ -132219,6 +132237,7 @@ olivecough.com
 olivedinflats.space
 metric.olivegarden.com
 smetric.olivegarden.com
+oliver.pub
 piwik.oliver.solutions
 smetrics.oliverpeoples.com
 marketing.olivers.dk
@@ -139645,6 +139664,7 @@ load.gtm.piesemotocross.ro
 piespower.com
 link.piesystems.io
 piet2eix3l.com
+pietasylphon.com
 sgtm.pietrozanettihome.com
 data-c53e1346fa.pietsmiet.de
 pietyharmoniousablebodied.com
@@ -150775,6 +150795,7 @@ qrride.com
 qrroyrdbjeeffw.com
 qrstes.com
 qrubv.buzz
+qruqon.com
 qrwcss.xyz
 analytics.qs-apps.com
 vinted-pl-gj32d.qs88.top
@@ -151972,6 +151993,7 @@ matomo.rail.cc
 piwik.rail.cc
 privaci.railfacts.com
 dc.railgun.works
+railingperformance.com
 railot.date
 railroadfatherenlargement.com
 railroadlineal.com
@@ -180152,6 +180174,7 @@ thovapsa.net
 info.thp.org
 thqgxvs.com
 thrashbomb.com
+thratchassman.com
 go.threadcheck.com
 marketing.threadsol.com
 static-img.threatbook.cn
@@ -180570,6 +180593,7 @@ tigo-gtmf.top
 tigo-gtmg.top
 gtm.tigo.pt
 analytics.tigocloud.net
+tigreanreshew.com
 news.tigregame.us
 track.tigrinhopremiado.com
 tigroulseedsipt.net
@@ -184683,6 +184707,7 @@ go.tripplite.com
 trippybites.com
 trippytattoo.com
 www.trips.com
+tripsisvellums.com
 go.tripspark.com
 tripsstyle.com
 analytics.tripstax.com
@@ -185499,6 +185524,7 @@ offi.ttradinn.top
 tab.ttradinn.top
 wwe.ttradinn.top
 ttributoraheadyg.org
+ttrk.io
 tts-maker.com
 wsytyz.tts.ru
 allegro.ttsl.pl
@@ -186348,6 +186374,7 @@ twocleanersservice.com
 tracking.twocommagrowth.com
 twoduelists.com
 twoepidemic.com
+trk.twofeeds.com
 marketing.twofivesix.co
 goat.twoistoomany.com
 twoj-wybor.com
@@ -188362,6 +188389,7 @@ untrendenam.com
 untriedcause.pro
 untrk.xyz
 untropiuson.com
+untrpyxkvibfq.com
 untruecharacterizepeople.com
 untu.us
 unugilpcyxoep.com
@@ -193762,8 +193790,7 @@ volcanoexhibitmeaning.com
 volcanostricken.com
 volceapplog.com
 httpdns.volcengineapi.com
-apmplus.volces.com
-mssdk.volces.com
+volces.com
 metric.volcom.cn
 volcomofficial.com
 volctrack.com
@@ -197864,6 +197891,7 @@ whugesto.net
 whulrima.xyz
 whulsauh.tv
 whulsaux.com
+whunpainty.com
 whupsoza.xyz
 whuptukuzi.net
 whutchey.com
@@ -204611,6 +204639,7 @@ zaithootee.com
 zaiveeneefol.com
 zaiwihouje.com
 zaizaigut.net
+zaizavoulooruta.xyz
 zajazduzenka.pl
 zajel-care.com
 zajel-kw.com
@@ -206513,6 +206542,7 @@ data-47ee1b0882.zuckerfabrik.de
 zucks.co.jp
 zucks.net
 zuclcijzua.com
+zucoagorsout.com
 zudio-franchising.com
 zudjdiy.com
 zudvl.com
@@ -206540,6 +206570,7 @@ dl.zuimeitianqi.com
 hw.zuimeitianqi.com
 hwad.zuimeitianqi.com
 stat.zuimeitianqi.com
+zuisinchills.shop
 zuisinservo.top
 zujibumlgc.com
 zujipa.com
