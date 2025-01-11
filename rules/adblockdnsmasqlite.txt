@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、anti-AD、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20250111001326
-# Last modified: 2025/01/11 00:13:26
-# Blocked domains: 7487
+# Version: 20250111085028
+# Last modified: 2025/01/11 08:50:28
+# Blocked domains: 7488
 #
 local=/00xvppy.cn/
 local=/011.com/
@@ -3893,7 +3893,6 @@ local=/fbmnovbqf.lbqxi.cn/
 local=/rxuuy.lbqxi.cn/
 local=/lccfjszp.cn/
 local=/lczk.cn/
-local=/ldcdn.ldmnq.com/
 local=/mnqlog.ldmnq.com/
 local=/storeen.ldmnq.com/
 local=/ad.ldplayer.net/
@@ -6241,6 +6240,8 @@ local=/526d.uunice.com/
 local=/526dimg.uunice.com/
 local=/weld.uunice.com/
 local=/weld830.uunice.com/
+local=/pop.uusee.com/
+local=/traffic.uusee.com/
 local=/gg.uuu9.com/
 local=/stat.uuu9.com/
 local=/zzcw.uuzham.com/
