@@ -5211,11 +5211,15 @@ newduba.cn###jq_youxi
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||tndbnriz.icu^
+||eisnaisv.com^
+||puhmtt.icu^
 ||riscats.com^
 ||jebrhb.icu^
 ||bc4.fun^
 ||rvxsvwqf.icu^
 ||vdhf042.fun^
+||tridroin.com^
 ||hdjthzg.cn^
 ||pxhuiben.com^
 ||oliver.pub^
