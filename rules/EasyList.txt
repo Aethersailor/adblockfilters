@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 3/axb6T/alISNaCgeqw6XA
-! Version: 202501120801
+! Checksum: MFgykw6xxFgi4TFRxpulsw
+! Version: 202501121601
 ! Title: EasyList
-! Last modified: 12 Jan 2025 08:01 UTC
+! Last modified: 12 Jan 2025 16:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -60141,6 +60141,7 @@ polygon.com##[data-concert]
 timesofindia.indiatimes.com##[data-contentprimestatus]
 coingecko.com##[data-controller="button-ads"]
 hedgefollow.com##[data-dee_type^="large_banner"]
+digitalspy.com##[data-embed="embed-gallery"][data-node-id]
 greatist.com,healthline.com,medicalnewstoday.com,psychcentral.com##[data-empty]
 badgerandblade.com,ginx.tv##[data-ez-ph-id]
 news.sky.com##[data-format="leaderboard"]
