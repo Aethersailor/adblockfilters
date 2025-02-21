@@ -3,9 +3,9 @@
 # Description: 适用于 Shadowrocket 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Small、SmartTV Blocklist、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts、PeterLowe。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockclashlite.list
-# Version: 20250221085048
-# Last modified: 2025/02/21 08:50:48
-# Blocked domains: 6103
+# Version: 20250221161447
+# Last modified: 2025/02/21 16:14:47
+# Blocked domains: 6100
 #
 DOMAIN-SUFFIX,00xvppy.cn
 DOMAIN-SUFFIX,img.0279.net
@@ -3775,7 +3775,6 @@ DOMAIN-SUFFIX,pfskzj.cn
 DOMAIN-SUFFIX,pgzs.com
 DOMAIN-SUFFIX,j1.piaobing.com
 DOMAIN-SUFFIX,piclick.cn
-DOMAIN-SUFFIX,steam.piggycase.cn
 DOMAIN-SUFFIX,pikacn.com
 DOMAIN-SUFFIX,pincai.com
 DOMAIN-SUFFIX,adim.pinduoduo.com
@@ -4804,7 +4803,6 @@ DOMAIN-SUFFIX,teleagrme.cn
 DOMAIN-SUFFIX,telegrpzn.cn
 DOMAIN-SUFFIX,telegvim.cn
 DOMAIN-SUFFIX,telegvpqm.cn
-DOMAIN-SUFFIX,telepcvne.cn
 DOMAIN-SUFFIX,telepzow.cn
 DOMAIN-SUFFIX,telezgrme.cn
 DOMAIN-SUFFIX,apd-pcdnwxlogin.teg.tencent-cloud.net
@@ -5853,7 +5851,6 @@ DOMAIN-SUFFIX,tj.youzanyun.com
 DOMAIN-SUFFIX,wenxue.youzhicn.com
 DOMAIN-SUFFIX,youzu.com
 DOMAIN-SUFFIX,agkffaem.yoxnx.cn
-DOMAIN-SUFFIX,dehsbdvz.yoxnx.cn
 DOMAIN-SUFFIX,gehhfzjj.yoxnx.cn
 DOMAIN-SUFFIX,izoghj.yoxnx.cn
 DOMAIN-SUFFIX,lsaseu.yoxnx.cn

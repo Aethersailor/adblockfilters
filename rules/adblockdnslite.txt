@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Small、SmartTV Blocklist、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts、PeterLowe。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20250221085048
-! Last modified: 2025/02/21 08:50:48
-! Blocked domains: 6103
+! Version: 20250221161446
+! Last modified: 2025/02/21 16:14:46
+! Blocked domains: 6100
 ! unBlocked domains: 22
 !
 ||00xvppy.cn^
@@ -3776,7 +3776,6 @@
 ||pgzs.com^
 ||j1.piaobing.com^
 ||piclick.cn^
-||steam.piggycase.cn^
 ||pikacn.com^
 ||pincai.com^
 ||adim.pinduoduo.com^
@@ -4805,7 +4804,6 @@
 ||telegrpzn.cn^
 ||telegvim.cn^
 ||telegvpqm.cn^
-||telepcvne.cn^
 ||telepzow.cn^
 ||telezgrme.cn^
 ||apd-pcdnwxlogin.teg.tencent-cloud.net^
@@ -5854,7 +5852,6 @@
 ||wenxue.youzhicn.com^
 ||youzu.com^
 ||agkffaem.yoxnx.cn^
-||dehsbdvz.yoxnx.cn^
 ||gehhfzjj.yoxnx.cn^
 ||izoghj.yoxnx.cn^
 ||lsaseu.yoxnx.cn^
