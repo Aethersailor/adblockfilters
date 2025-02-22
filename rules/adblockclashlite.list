@@ -3,9 +3,9 @@
 # Description: 适用于 Shadowrocket 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Big、SmartTV Blocklist、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts、PeterLowe。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockclashlite.list
-# Version: 20250222161258
-# Last modified: 2025/02/22 16:12:58
-# Blocked domains: 10145
+# Version: 20250223001133
+# Last modified: 2025/02/23 00:11:33
+# Blocked domains: 10140
 #
 DOMAIN-SUFFIX,395131115419474531.002.sh.cn
 DOMAIN-SUFFIX,00xvppy.cn
@@ -81,7 +81,6 @@ DOMAIN-SUFFIX,106.14.126.40
 DOMAIN-SUFFIX,106.14.213.29
 DOMAIN-SUFFIX,106.15.224.147
 DOMAIN-SUFFIX,106.15.239.51
-DOMAIN-SUFFIX,106.52.37.207
 DOMAIN-SUFFIX,107788.com
 DOMAIN-SUFFIX,adm.10jqka.com.cn
 DOMAIN-SUFFIX,stat.10jqka.com.cn
@@ -103,7 +102,6 @@ DOMAIN-SUFFIX,114.fm
 DOMAIN-SUFFIX,1.11467.com
 DOMAIN-SUFFIX,114la.com
 DOMAIN-SUFFIX,115.28.26.10
-DOMAIN-SUFFIX,115.55.219.137
 DOMAIN-SUFFIX,116.171.106.3
 DOMAIN-SUFFIX,116.196.95.100
 DOMAIN-SUFFIX,116.198.229.197
@@ -283,7 +281,6 @@ DOMAIN-SUFFIX,1816soso.com
 DOMAIN-SUFFIX,eezdx.erc.18183.com
 DOMAIN-SUFFIX,img1.18183.com
 DOMAIN-SUFFIX,zpe.klre.18183.com
-DOMAIN-SUFFIX,182.113.9.168
 DOMAIN-SUFFIX,182.116.22.237
 DOMAIN-SUFFIX,182.127.125.132
 DOMAIN-SUFFIX,182.92.99.95
@@ -526,7 +523,6 @@ DOMAIN-SUFFIX,4009997658.com
 DOMAIN-SUFFIX,m.408uo.cn
 DOMAIN-SUFFIX,42.192.195.221
 DOMAIN-SUFFIX,42.226.89.83
-DOMAIN-SUFFIX,42.230.34.87
 DOMAIN-SUFFIX,42.240.133.45
 DOMAIN-SUFFIX,426g.com
 DOMAIN-SUFFIX,43.139.139.40
@@ -828,7 +824,6 @@ DOMAIN-SUFFIX,8181zx.com
 DOMAIN-SUFFIX,818tl.com
 DOMAIN-SUFFIX,81cdn.cn
 DOMAIN-SUFFIX,82.156.0.140
-DOMAIN-SUFFIX,82.156.108.180
 DOMAIN-SUFFIX,8315.cn
 DOMAIN-SUFFIX,84206.com
 DOMAIN-SUFFIX,m.85rvq.cn
