@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Big、SmartTV Blocklist、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts、PeterLowe。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20250224001140
-# Last modified: 2025/02/24 00:11:40
-# Blocked domains: 9042
+# Version: 20250224085248
+# Last modified: 2025/02/24 08:52:48
+# Blocked domains: 9036
 #
 local=/395131115419474531.002.sh.cn/
 local=/00xvppy.cn/
@@ -88,7 +88,6 @@ local=/112.124.71.123/
 local=/112.33.27.73/
 local=/oss-asq-static.11222.cn/
 local=/113.219.177.95/
-local=/113.31.111.76/
 local=/113.44.90.0/
 local=/113.98.201.248/
 local=/114.215.27.238/
@@ -148,6 +147,7 @@ local=/download.123cw.cn/
 local=/123juzi.com/
 local=/123juzi.net/
 local=/bdad.123pan.cn/
+local=/124.220.235.28/
 local=/124.222.48.227/
 local=/124.222.82.19/
 local=/124.223.200.131/
@@ -273,9 +273,6 @@ local=/1816soso.com/
 local=/eezdx.erc.18183.com/
 local=/img1.18183.com/
 local=/zpe.klre.18183.com/
-local=/182.113.59.99/
-local=/182.116.22.237/
-local=/182.127.125.132/
 local=/182.92.99.95/
 local=/photo.188kc.cn/
 local=/webwebfenxi.189.cn/
@@ -505,9 +502,7 @@ local=/4008813318.com.cn/
 local=/4009997658.com/
 local=/m.408uo.cn/
 local=/42.192.195.221/
-local=/42.226.89.83/
 local=/42.230.32.137/
-local=/42.230.34.47/
 local=/42.240.133.45/
 local=/426g.com/
 local=/43.139.139.40/
@@ -519,7 +514,6 @@ local=/stat.api.4399.com/
 local=/43gw.cn/
 local=/47.101.206.165/
 local=/47.102.218.169/
-local=/47.103.109.70/
 local=/47.103.126.166/
 local=/47.104.169.91/
 local=/47.104.173.216/
