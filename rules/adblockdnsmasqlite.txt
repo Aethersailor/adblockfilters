@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Big、SmartTV Blocklist、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts、PeterLowe。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20250225001446
-# Last modified: 2025/02/25 00:14:46
-# Blocked domains: 9013
+# Version: 20250225085139
+# Last modified: 2025/02/25 08:51:39
+# Blocked domains: 9015
 #
 local=/395131115419474531.002.sh.cn/
 local=/00xvppy.cn/
@@ -86,6 +86,7 @@ local=/111.42.156.130/
 local=/1.11130.com.cn/
 local=/polska-olx.111455.xyz/
 local=/112.124.71.123/
+local=/112.33.27.73/
 local=/oss-asq-static.11222.cn/
 local=/113.219.177.95/
 local=/113.44.90.0/
@@ -136,6 +137,7 @@ local=/122.51.183.116/
 local=/122.51.52.109/
 local=/js1.122cha.com/
 local=/123.132.224.187/
+local=/123.253.12.111/
 local=/123.56.191.147/
 local=/123.57.250.154/
 local=/ad.12306.cn/
@@ -271,7 +273,6 @@ local=/1816soso.com/
 local=/eezdx.erc.18183.com/
 local=/img1.18183.com/
 local=/zpe.klre.18183.com/
-local=/182.113.11.86/
 local=/182.92.99.95/
 local=/photo.188kc.cn/
 local=/webwebfenxi.189.cn/
@@ -459,6 +460,7 @@ local=/38zu.cn/
 local=/39.100.33.142/
 local=/39.102.210.162/
 local=/39.103.150.56/
+local=/39.103.217.92/
 local=/39.104.73.194/
 local=/39.105.211.255/
 local=/39.105.31.193/
@@ -503,6 +505,7 @@ local=/42.192.195.221/
 local=/42.230.32.137/
 local=/42.240.133.45/
 local=/426g.com/
+local=/43.139.139.40/
 local=/43.143.123.40/
 local=/43.226.39.44/
 local=/43.241.17.143/
@@ -765,7 +768,6 @@ local=/cp.7y7.com/
 local=/7ywl.com/
 local=/8.131.63.6/
 local=/8.134.163.72/
-local=/8.135.237.16/
 local=/8.137.114.210/
 local=/8.138.81.152/
 local=/8.140.239.162/
@@ -1373,7 +1375,7 @@ local=/appsdt.com/
 local=/appuu.cn/
 local=/static.appbox.apuslauncher.com/
 local=/aqgyju.cn/
-local=/aqianniao.com/
+local=/www.aqianniao.com/
 local=/vinted-pl-gj32d.aqiwen.top/
 local=/aqrokdw.cn/
 local=/aqvi.cn/
