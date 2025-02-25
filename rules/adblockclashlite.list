@@ -3,9 +3,9 @@
 # Description: 适用于 Shadowrocket 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Big、SmartTV Blocklist、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts、PeterLowe。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockclashlite.list
-# Version: 20250225161535
-# Last modified: 2025/02/25 16:15:35
-# Blocked domains: 9027
+# Version: 20250226001440
+# Last modified: 2025/02/26 00:14:40
+# Blocked domains: 9024
 #
 DOMAIN-SUFFIX,395131115419474531.002.sh.cn
 DOMAIN-SUFFIX,00xvppy.cn
@@ -44,8 +44,6 @@ DOMAIN-SUFFIX,0olut8.cn
 DOMAIN-SUFFIX,m.0pi84.cn
 DOMAIN-SUFFIX,a1.0s.net.cn
 DOMAIN-SUFFIX,0x5.me
-DOMAIN-SUFFIX,1.118.34.220
-DOMAIN-SUFFIX,1.13.158.52
 DOMAIN-SUFFIX,10000xing.cn
 DOMAIN-SUFFIX,1000su.com
 DOMAIN-SUFFIX,1717.1000uc.com
@@ -87,7 +85,6 @@ DOMAIN-SUFFIX,polska-olx.111455.xyz
 DOMAIN-SUFFIX,112.124.71.123
 DOMAIN-SUFFIX,112.33.27.73
 DOMAIN-SUFFIX,oss-asq-static.11222.cn
-DOMAIN-SUFFIX,113.215.220.66
 DOMAIN-SUFFIX,113.219.177.95
 DOMAIN-SUFFIX,113.31.111.76
 DOMAIN-SUFFIX,113.44.90.0
