@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ypBmNUcKmL9dwgWKUo1PnA
-! Version: 202502260041
+! Checksum: JwJk9pCJaB+zVDE98BsC8w
+! Version: 202502260801
 ! Title: EasyList
-! Last modified: 26 Feb 2025 00:41 UTC
+! Last modified: 26 Feb 2025 08:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -44154,6 +44154,7 @@ browsershots.org#@#.advert_area
 ||nster.net^$third-party
 ||ntent.com^$third-party
 ||numbers.md^$third-party
+||o.socoms.net^$third-party
 ||objects.tremormedia.com^$~object,third-party
 ||oboxads.com^$third-party
 ||oceanwebcraft.com^$third-party
@@ -51541,6 +51542,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||2merkato.com/images/banners/
 ||2oceansvibe.com/?custom=takeover
 ||4f.to/spns/
+||5j386s9.sbs/js/dnsads.js
 ||a.1film.to^
 ||abcnews.com/assets/js/adCallOverride.js
 ||aboutmyarea.co.uk/images/imgstore/
@@ -52375,7 +52377,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||playwire.com/bolt/js/$script,third-party
 ||poptok.com^$third-party
 ||rumble.com^$domain=tiphero.com
-||sonar.viously.com^$domain=~aufeminin.com|~futura-sciences.com|~gamekult.com|~jeanmarcmorandini.com|~lesnumeriques.com|~marmiton.org|~melty.fr|~nextplz.fr
+||sonar.viously.com^$domain=~aufeminin.com|~futura-sciences.com|~gamekult.com|~jeanmarcmorandini.com|~lesnumeriques.com|~marmiton.org|~melty.fr|~nextplz.fr|~the-race.com
 ||sportrecs.com/redirect/embed/
 ||ultimedia.com/js/common/smart.js$script,third-party
 ||vidazoo.com/basev/$script,third-party
@@ -56276,6 +56278,7 @@ yourbittorrent.com##.extneed
 navajotimes.com##.extra-hp-skyscraper
 textcompare.org##.ez-sidebar-wall
 futuregaming.io##.ez-video-wrap
+wsj.com##.ez6zued3.css-sw5cyu
 cgpress.org##.ezlazyloaded.header-wrapper
 chorus.fm##.f-soc
 formula1.com##.f1-dfp-banner-wrapper
@@ -59447,6 +59450,7 @@ liverpoolway.co.uk##div[align="center"] > a[href]
 informer.com##div[align="center"][style="margin:10px"]
 yandex.com##div[aria-label="Ad"]
 lifehacker.com##div[aria-label="Products List"]
+imginn.com##div[class$="-money"]
 azuremagazine.com##div[class$="azoa"]
 wsj.com##div[class*="WSJTheme--adWrapper"]
 pcgamer.com,techcrunch.com,tomsguide.com,tomshardware.com##div[class*="ad-unit"]
@@ -61371,6 +61375,7 @@ risextube.com##.floating
 hentaiworld.tv##.floating-banner
 xgroovy.com##.fluid-b
 yourlust.com##.fluid_html_on_pause
+some.porn##.fluid_html_on_pause_container
 xgroovy.com##.fluid_next_video_left
 xgroovy.com##.fluid_next_video_right
 stileproject.com##.fluid_nonLinear_bottom
@@ -62864,6 +62869,7 @@ redtube.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporn.com,youp
 ! *** easylist:easylist_adult/adult_allowlist.txt ***
 @@/api/models?$domain=tik.porn
 @@/api/v2/models-online?$domain=tik.porn
+@@||abt.s3.yandex.net/expjs/latest/exp.js$script,domain=some.porn
 @@||chaturbate.com/in/$subdocument,domain=cam-sex.net
 @@||exosrv.com/video-slider.js$domain=xfreehd.com
 @@||gaynetwork.co.uk/Images/ads/bg/$image,~third-party
