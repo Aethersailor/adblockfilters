@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Big、SmartTV Blocklist、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts、PeterLowe。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20250227161519
-! Last modified: 2025/02/27 16:15:19
-! Blocked domains: 9011
+! Version: 20250228001434
+! Last modified: 2025/02/28 00:14:34
+! Blocked domains: 9007
 !
 395131115419474531.002.sh.cn
 00xvppy.cn
@@ -151,7 +151,6 @@ bdad.123pan.cn
 124.222.82.19
 124.223.200.131
 124.248.65.242
-124.70.0.56
 124.70.140.100
 124.71.164.7
 ent1.12584.cn
@@ -498,7 +497,6 @@ ios-pclog.3u.com
 4009997658.com
 m.408uo.cn
 42.192.195.221
-42.230.35.44
 42.240.133.45
 426g.com
 43.139.139.40
@@ -517,8 +515,6 @@ stat.api.4399.com
 47.109.137.82
 47.109.201.173
 47.109.77.84
-47.109.90.134
-47.113.107.52
 47.115.54.19
 47.119.189.207
 47.120.25.38
