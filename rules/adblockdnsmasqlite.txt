@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Big、SmartTV Blocklist、anti-AD、Phishing URL Blocklist、Online Malicious URL Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts、PeterLowe。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20250228161512
-# Last modified: 2025/02/28 16:15:12
-# Blocked domains: 9160
+# Version: 20250301001435
+# Last modified: 2025/03/01 00:14:35
+# Blocked domains: 9157
 #
 local=/395131115419474531.002.sh.cn/
 local=/00xvppy.cn/
@@ -95,7 +95,6 @@ local=/1.11467.com/
 local=/114la.com/
 local=/115.190.90.233/
 local=/115.28.26.10/
-local=/115.62.154.55/
 local=/116.171.106.3/
 local=/116.196.95.100/
 local=/116.198.229.197/
@@ -128,7 +127,6 @@ local=/bdjs.120askimages.com/
 local=/bdlm.120askimages.com/
 local=/121.199.56.173/
 local=/121.4.36.95/
-local=/121.41.89.22/
 local=/121.43.131.0/
 local=/122.114.193.75/
 local=/122.51.183.116/
@@ -659,7 +657,6 @@ local=/58mingri.cn/
 local=/58mingtian.cn/
 local=/analytics.58pic.com/
 local=/58tg.com/
-local=/59.59.6.86/
 local=/595image.com/
 local=/59cn.cn/
 local=/59gt.cn/
